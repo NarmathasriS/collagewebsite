@@ -1,5 +1,4 @@
 # College-Website
-
 ## Features
 
 - Students can fill out college admission form
